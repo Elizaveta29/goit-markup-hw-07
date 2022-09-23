@@ -68,13 +68,10 @@
 
 .nav__link {
   position: relative;
-  color: var(--accent-cl);
-
   &:focus,
   &:hover {
     color: var(--accent-cl);
   }
-
   &--current {
     color: var(--accent-cl);
 
